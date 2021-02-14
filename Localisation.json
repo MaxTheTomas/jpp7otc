@@ -1,6 +1,14 @@
 {
   "MADEBY": "Made by _MaxTheTomas_",
-  "Games": {
+  "Fonts": {
+      "WorldChampions": false,
+      "Quiplash3": true,
+      "PartyPack": true,
+      "Jackbox_Talks": true,
+      "Everyday": false,
+      "BlankyBlank": true
+  },
+  "Translations": {
       "WorldChampions": false,
       "Quiplash3": true,
       "PartyPack": true,
