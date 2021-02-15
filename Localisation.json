@@ -4,7 +4,7 @@
   "AppLatest": 0,
   "Names": {
       "WorldChampions": "ГладиАРТоры",
-      "Quiplash3": "Смехлыст 3 $ Бета",
+      "Quiplash3": "Смехлыст 3",
       "PartyPack": "Главное меню",
       "Jackbox_Talks": "На пальцах",
       "Everyday": "Демоны и детали",
@@ -20,7 +20,7 @@
   },
   "Translations": {
       "WorldChampions": false,
-      "Quiplash3": true,
+      "Quiplash3": false,
       "PartyPack": true,
       "Jackbox_Talks": true,
       "Everyday": false,
