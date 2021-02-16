@@ -1,7 +1,8 @@
 {
-  "MADEBY": "Сделано _MaxTheTomas_. Переводы могут содержать ошибки.\nПри нахождении ошибок, отправляйте скриншот на maxthetomas@gmail.com",
+  "MADEBY": "Сделано _MaxTheTomas_. Переводы могут содержать ошибки.\nПри нахождении ошибок, отправляйте скриншот на PLACEHOLDER_EMAIL_OT",
   "SiteLink": "http://maxthetomas.github.io/site/",
-  "AppLatest": 0,
+  "Email": "maxthetomas@gmail.com",
+  "AppLatest": 1,
   "Names": {
       "WorldChampions": "ГладиАРТоры",
       "Quiplash3": "Смехлыст 3",
