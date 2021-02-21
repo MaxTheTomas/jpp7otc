@@ -1,0 +1,32 @@
+{
+  "MADEBY": "Сделано _MaxTheTomas_. Переводы могут содержать ошибки.\nПри нахождении ошибок, отправляйте скриншот на PLACEHOLDER_EMAIL_OT",
+  "SiteLink": "http://maxthetomas.github.io/site/",
+  "Email": "maxthetomas@gmail.com",
+  "AppLatest": 0,
+  "TranslationVer": "VIDEO TEST",
+  "sha": "a408c44cb736ace5c04ac5a7f4837115757bcb33aab37b695bacc24ab2c6d035",
+  "Names": {
+      "WorldChampions": "ГладиАРТоры",
+      "Quiplash3": "Смехлыст 3",
+      "PartyPack": "Главное меню",
+      "Jackbox_Talks": "На пальцах",
+      "Everyday": "Демоны и детали",
+      "BlankyBlank": "Blather 'round"
+  },
+  "Fonts": {
+      "WorldChampions": false,
+      "Quiplash3": true,
+      "PartyPack": true,
+      "Jackbox_Talks": true,
+      "Everyday": false,
+      "BlankyBlank": true
+  },
+  "Translations": {
+      "WorldChampions": false,
+      "Quiplash3": false,
+      "PartyPack": true,
+      "Jackbox_Talks": true,
+      "Everyday": false,
+      "BlankyBlank": false
+  }
+}
