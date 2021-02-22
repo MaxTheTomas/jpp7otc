@@ -214,6 +214,9 @@
 			"LocalName": "content/JackboxTalksSignpost.jet",
 			"WebName": "JackboxTalksSignpost.jet"
 		}, {
+			"LocalName": "Credits.html",
+			"WebName": ""
+		}, {
 			"LocalName": "content/JackboxTalksTitle.jet",
 			"WebName": "JackboxTalksTitle.jet"
 		}],
