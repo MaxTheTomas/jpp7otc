@@ -28,5 +28,13 @@
       "Jackbox_Talks": true,
       "Everyday": false,
       "BlankyBlank": false
+  },
+    "Patrons": {
+      "WorldChampions": false,
+      "Quiplash3": true,
+      "PartyPack": true,
+      "Jackbox_Talks": true,
+      "Everyday": false,
+      "BlankyBlank": true
   }
 }
