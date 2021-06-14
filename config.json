@@ -23,11 +23,11 @@
   },
   "Translations": {
       "WorldChampions": false,
-      "Quiplash3": false,
+      "Quiplash3": true,
       "PartyPack": true,
       "Jackbox_Talks": true,
       "Everyday": false,
-      "BlankyBlank": false
+      "BlankyBlank": true
   },
     "Patrons": {
       "WorldChampions": false,
